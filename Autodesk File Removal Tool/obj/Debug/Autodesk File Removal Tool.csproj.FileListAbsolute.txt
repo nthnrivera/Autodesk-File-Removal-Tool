@@ -1,0 +1,11 @@
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\bin\Debug\Autodesk File Removal Tool.exe.config
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\bin\Debug\Autodesk File Removal Tool.exe
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\bin\Debug\Autodesk File Removal Tool.pdb
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\obj\Debug\Autodesk File Removal Tool.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\obj\Debug\Autodesk_File_Removal_Tool.frm_frontPage.resources
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\obj\Debug\Autodesk_File_Removal_Tool.Properties.Resources.resources
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\obj\Debug\Autodesk File Removal Tool.csproj.GenerateResource.Cache
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\obj\Debug\Autodesk File Removal Tool.exe
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\obj\Debug\Autodesk File Removal Tool.pdb
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\obj\Debug\Autodesk File Removal Tool.TrustInfo.xml
+G:\Documents\Visual Studio\Autodesk File Removal Tool\Autodesk File Removal Tool\obj\Debug\Autodesk File Removal Tool.exe.manifest
